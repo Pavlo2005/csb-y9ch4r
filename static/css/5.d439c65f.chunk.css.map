@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/LoginForm/LoginForm.module.css"],"names":[],"mappings":"AAAA,uBACE,WACF,CAEA,wBACE,YAAa,CACb,qBAAsB,CACtB,kBACF","file":"5.d439c65f.chunk.css","sourcesContent":[".form {\n  width: 320px;\n}\n\n.label {\n  display: flex;\n  flex-direction: column;\n  margin-bottom: 16px;\n}\n"]}

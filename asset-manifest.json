@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.e6152a46.chunk.js": "https://pavlo2005.github.io/csb-y9ch4r/static/js/0.e6152a46.chunk.js",
+    "static/js/0.e6152a46.chunk.js.map": "https://pavlo2005.github.io/csb-y9ch4r/static/js/0.e6152a46.chunk.js.map",
+    "main.css": "https://pavlo2005.github.io/csb-y9ch4r/static/css/main.7fafffcb.chunk.css",
+    "main.js": "https://pavlo2005.github.io/csb-y9ch4r/static/js/main.eea411ea.chunk.js",
+    "main.js.map": "https://pavlo2005.github.io/csb-y9ch4r/static/js/main.eea411ea.chunk.js.map",
+    "runtime-main.js": "https://pavlo2005.github.io/csb-y9ch4r/static/js/runtime-main.dd41edc9.js",
+    "runtime-main.js.map": "https://pavlo2005.github.io/csb-y9ch4r/static/js/runtime-main.dd41edc9.js.map",
+    "static/css/3.c79dbdbc.chunk.css": "https://pavlo2005.github.io/csb-y9ch4r/static/css/3.c79dbdbc.chunk.css",
+    "static/js/3.e790411a.chunk.js": "https://pavlo2005.github.io/csb-y9ch4r/static/js/3.e790411a.chunk.js",
+    "static/js/3.e790411a.chunk.js.map": "https://pavlo2005.github.io/csb-y9ch4r/static/js/3.e790411a.chunk.js.map",
+    "static/css/4.b20282a8.chunk.css": "https://pavlo2005.github.io/csb-y9ch4r/static/css/4.b20282a8.chunk.css",
+    "static/js/4.5002da45.chunk.js": "https://pavlo2005.github.io/csb-y9ch4r/static/js/4.5002da45.chunk.js",
+    "static/js/4.5002da45.chunk.js.map": "https://pavlo2005.github.io/csb-y9ch4r/static/js/4.5002da45.chunk.js.map",
+    "static/css/5.d439c65f.chunk.css": "https://pavlo2005.github.io/csb-y9ch4r/static/css/5.d439c65f.chunk.css",
+    "static/js/5.62395ef3.chunk.js": "https://pavlo2005.github.io/csb-y9ch4r/static/js/5.62395ef3.chunk.js",
+    "static/js/5.62395ef3.chunk.js.map": "https://pavlo2005.github.io/csb-y9ch4r/static/js/5.62395ef3.chunk.js.map",
+    "static/css/6.041fb171.chunk.css": "https://pavlo2005.github.io/csb-y9ch4r/static/css/6.041fb171.chunk.css",
+    "static/js/6.fc5f5c13.chunk.js": "https://pavlo2005.github.io/csb-y9ch4r/static/js/6.fc5f5c13.chunk.js",
+    "static/js/6.fc5f5c13.chunk.js.map": "https://pavlo2005.github.io/csb-y9ch4r/static/js/6.fc5f5c13.chunk.js.map",
+    "static/js/7.b56f8336.chunk.js": "https://pavlo2005.github.io/csb-y9ch4r/static/js/7.b56f8336.chunk.js",
+    "static/js/7.b56f8336.chunk.js.map": "https://pavlo2005.github.io/csb-y9ch4r/static/js/7.b56f8336.chunk.js.map",
+    "index.html": "https://pavlo2005.github.io/csb-y9ch4r/index.html",
+    "static/css/3.c79dbdbc.chunk.css.map": "https://pavlo2005.github.io/csb-y9ch4r/static/css/3.c79dbdbc.chunk.css.map",
+    "static/css/4.b20282a8.chunk.css.map": "https://pavlo2005.github.io/csb-y9ch4r/static/css/4.b20282a8.chunk.css.map",
+    "static/css/5.d439c65f.chunk.css.map": "https://pavlo2005.github.io/csb-y9ch4r/static/css/5.d439c65f.chunk.css.map",
+    "static/css/6.041fb171.chunk.css.map": "https://pavlo2005.github.io/csb-y9ch4r/static/css/6.041fb171.chunk.css.map",
+    "static/css/main.7fafffcb.chunk.css.map": "https://pavlo2005.github.io/csb-y9ch4r/static/css/main.7fafffcb.chunk.css.map",
+    "static/js/0.e6152a46.chunk.js.LICENSE.txt": "https://pavlo2005.github.io/csb-y9ch4r/static/js/0.e6152a46.chunk.js.LICENSE.txt",
+    "static/js/3.e790411a.chunk.js.LICENSE.txt": "https://pavlo2005.github.io/csb-y9ch4r/static/js/3.e790411a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd41edc9.js",
+    "static/css/3.c79dbdbc.chunk.css",
+    "static/js/3.e790411a.chunk.js",
+    "static/css/main.7fafffcb.chunk.css",
+    "static/js/main.eea411ea.chunk.js"
+  ]
+}
